@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "613c5a4174d1342ebee85e82"
+  },
+  "id": "Object",
+  "nombre": "string",
+  "apellido": "string",
+  "edad": "integer",
+  "deporte": "string",
+  "especialidad": "string"
+}]

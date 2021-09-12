@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "613c5c3d74d1342ebee85e86"
+  },
+  "id": "Object",
+  "marcador_inicial": "char",
+  "marcador_final": "char",
+  "tiempo_jugado": "integer",
+  "deporte": "string",
+  "jornada": "string"
+}]
